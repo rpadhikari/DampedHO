@@ -1,3 +1,6 @@
+#Reference plot as seen in the following Wiki page (accessed on August 17th, 2021)
+# https://commons.wikimedia.org/wiki/File:Mplwp_resonance_zeta_envelope.svg
+# Author: Rajendra Adhikari
 set term postscript enhanced color 'Helvetica-Bold,16'
 set output 'damp.ps'
 
